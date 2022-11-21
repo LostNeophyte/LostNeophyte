@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+#### GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LostNeophyte&show_icons=true&theme=transparent)
+
+#### Holopin board
 [![@lostneophyte's Holopin board](https://holopin.me/lostneophyte)](https://holopin.io/@lostneophyte)
 <!--
 **LostNeophyte/LostNeophyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
